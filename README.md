@@ -1,8 +1,6 @@
 # Analyse des Annonces Immobilières Tayara
 
 
-# Analyse des Annonces Immobilières Tayara
-
 ## Description
 Projet complet d'analyse du marché immobilier tunisien comprenant deux composants principaux :
 - Un scraper automatisé pour collecter les données de Tayara.tn
