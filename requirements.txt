@@ -1,0 +1,72 @@
+# Technologies Utilisées
+
+## Web Scraping
+- **BeautifulSoup4 (4.12.2)**
+  - Bibliothèque de parsing HTML/XML
+  - Utilisée pour extraire les données des pages web
+  - Facilite la navigation dans le DOM
+
+- **Selenium (4.15.2)**
+  - Automatisation de navigateur web
+  - Gestion du contenu dynamique
+  - Navigation interactive des pages
+
+- **Requests (2.31.0)**
+  - Bibliothèque HTTP pour Python
+  - Envoi de requêtes web
+  - Gestion des sessions et cookies
+
+- **lxml (4.9.3)**
+  - Parser XML et HTML rapide
+  - Optimisé pour la performance
+  - Support XPath complet
+
+## Traitement des Données
+- **Pandas (2.1.1)**
+  - Manipulation et analyse de données
+  - Gestion des DataFrames
+  - Export/Import CSV
+
+- **NumPy (1.24.3)**
+  - Calculs numériques
+  - Support des tableaux multidimensionnels
+  - Opérations mathématiques avancées
+
+## Visualisation
+- **Dash (2.14.1)**
+  - Framework pour applications web analytiques
+  - Création de dashboards interactifs
+  - Basé sur Flask et React
+
+- **Plotly (5.17.0)**
+  - Bibliothèque de visualisation interactive
+  - Graphiques dynamiques
+  - Support de multiples types de charts
+
+- **Dash Bootstrap Components (1.5.0)**
+  - Composants Bootstrap pour Dash
+  - Mise en page responsive
+  - Thèmes et styles modernes
+
+## Utilitaires
+- **python-dotenv (1.0.0)**
+  - Gestion des variables d'environnement
+  - Configuration sécurisée
+  - Séparation des paramètres sensibles
+
+- **tqdm (4.66.1)**
+  - Barres de progression
+  - Suivi des opérations longues
+  - Feedback visuel pour l'utilisateur
+
+## Environnement de Développement
+- **Python 3.8+**
+  - Langage de programmation principal
+  - Support des fonctionnalités modernes
+  - Large écosystème de bibliothèques
+
+## Gestion des Dépendances
+- **pip**
+  - Gestionnaire de paquets Python
+  - Installation des dépendances
+  - Gestion des versions
